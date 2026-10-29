@@ -1,0 +1,8 @@
+name: "AutoMine"
+version: "1.0.0"
+main: "AutoMine"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
